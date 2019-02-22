@@ -1,0 +1,227 @@
+@media screen and (max-width: 1024px){
+    table tfoot td .btn-cont .plan-btn i {
+        display: none;
+    }
+    .hp-p-table{
+        width: 120%;
+    }
+ }
+
+ @media screen and (max-width:768px){
+    .hp-htxt-white {
+        font-size: 28px;
+        padding: 0px;
+    }
+    .uk-navbar-nav {
+        padding: 0px 0px;
+    }
+    .uk-navbar-nav>li>a{
+        font-size:15px;
+    }
+    .hp-benefits-grid .uk-width-medium-1-4 .desc {
+        font-size: 11px;
+        line-height: 19px;
+        padding: 3px;
+    }
+    .hp-benefits-grid .uk-width-medium-1-4 h1 {
+        font-size: 25px;
+        line-height: 27px;
+        font-weight: bolder !important;
+    }
+    .hp-contact {
+        border: 2px solid #eee;
+        padding: 7px;
+        border-radius: 4px;
+    }
+    .hp-p-img-cont ul li img {
+        filter:none;
+        -webkit-filter: none;
+    }
+    .hp-p-table{
+        width: 135%;
+    }
+}
+@media screen and (max-width: 736px){
+    .hp-p-full {
+        padding: 10px;
+    }
+    .hp-f-section .cont-jumper {
+        padding: 20px 40px;
+    }
+    .hp-f-section img {
+        width: 20%;
+    }
+    .hiw-img img{
+        width: 30%;
+    }
+    .hp-benefits-grid .uk-width-medium-1-4 .desc {
+        font-size: 18px;
+        line-height: 24px;
+        padding: 0 20px;
+    }
+    .hp-contact {
+        margin-top: 10px;
+    }
+    .hp-p-table {
+        width: 160%;
+    }
+}
+
+@media screen and (max-width: 667px){
+    .hp-headers-txt {
+        margin-bottom: 20px;
+    }
+    .hp-p-table {
+        width: 170%;
+    }
+}
+
+@media screen and (max-width:600px){
+    .hp-header-btns {
+        padding: 4px 18px;
+        font-size: 15px;
+        background: #fff;
+        color: #000;
+        font-weight: bolder;
+        background: transparent;
+        color: #fff;
+        text-shadow: none;
+        border: 5px solid #fff;
+    }
+    .hp-hdr-list-btn li {
+        display: inline-block;
+        padding: 0px 0px;
+    }
+    .hiw-img img{
+        width: 30%;
+    }
+    .hp-f-section .cont-jumper {
+        padding: 20px 0;
+    }
+    .hp-f-section img {
+        width: 24%;
+    }
+    .hp-headers-txt-2 {
+        font-size: 32px;
+    }
+    .hp-p-full {
+        padding: 20px 33px;
+    }
+    .hp-p-img-cont ul li {
+        display: inline-block;
+        text-align: center;
+        width: 32.5%;
+    }
+    .hp-contact {
+        margin-top: 10px;
+    }
+    .hp-p-table {
+        width: 200%;
+    }
+}
+
+@media screen and (max-width: 414px){
+    .hp-p-full {
+        padding: 35px 0;
+    }
+    .hp-hdr-list-btn{
+        padding-left: 0px;
+    }
+    .hdrbtns-pad {
+        padding: 5px 4px !important;
+    }
+    .hp-p-img-cont ul {
+        padding-left: 0 !important;
+    }
+    .hp-p-img-cont ul li {
+        width: 32.5%;
+    }
+    .hp-f-section img {
+        width: 33%;
+    }
+    .hp-headers-txt{
+        font-size: 35px;
+    }
+    .hp-contact {
+        margin-top: 10px;
+    }
+    .hp-p-table {
+        width: 260%;
+    }
+}
+
+@media screen and (max-width: 375px){
+    .hp-hdr-list-btn li.or {
+        display: inline-block;
+        padding: 0 8px;
+    }
+    .hp-f-section img {
+        width: 26.5%;
+    }
+    .hp-headers-txt {
+        font-size: 32px;
+    }
+    .hp-header-btns {
+        padding: 0px 4px;
+    }
+    .hdrbtns-pad {
+        padding: 0px 4px !important;
+    }
+    .hp-p-full {
+        padding: 25px 0;
+    }
+    .hp-contact {
+        margin-top: 10px;
+    }
+    .hp-p-table{
+        width: 120%;
+    }
+}
+
+@media screen and (max-width: 384px){
+    .hp-header-btns {
+        padding: 4px 4px;
+    }
+    .hp-contact {
+        margin-top: 10px;
+    }
+    .hp-p-table {
+        width: 290%;
+    }
+}
+
+@media screen and (max-width: 320px){
+    .hp-header-btns {
+        padding: 4px 18px;
+        font-size: 13px;
+    }
+    .hp-header-btns {
+        padding: 0px 4px;
+        font-size: 13px;
+    }
+    .hp-hdr-list-btn li.or {
+        display: inline-block;
+        padding: 0 4px;
+        font-size: 13px;
+    }
+    .hdrbtns-pad {
+        padding: 0px 4px !important;
+    }
+    .hp-headers-txt {
+        font-size: 36px;
+    }
+    .hp-headers-txt-2 {
+        font-size: 30px;
+        line-height: 31px;
+    }
+    .hp-f-section img {
+        width: 34%;
+    }
+    .hp-contact {
+        margin-top: 10px;
+    }
+    .hp-p-table {
+        width: 320%;
+    }
+}
+
